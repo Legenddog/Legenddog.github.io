@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on 一条狗的传说</title>
+        <link>https://legenddog.gitee.io/categories/</link>
+        <description>Recent content in Categories on 一条狗的传说</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sun, 25 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://legenddog.gitee.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>website</title>
+        <link>https://legenddog.gitee.io/categories/website/</link>
+        <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://legenddog.gitee.io/categories/website/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>git</title>
+        <link>https://legenddog.gitee.io/categories/git/</link>
+        <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://legenddog.gitee.io/categories/git/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>hugo</title>
+        <link>https://legenddog.gitee.io/categories/hugo/</link>
+        <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://legenddog.gitee.io/categories/hugo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>wps</title>
+        <link>https://legenddog.gitee.io/categories/wps/</link>
+        <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://legenddog.gitee.io/categories/wps/</guid>
+        <description>&lt;img src="https://legenddog.gitee.io/categories/wps/wps.png" alt="Featured image of post wps" /&gt;</description>
+        </item>
+        <item>
+        <title>photography</title>
+        <link>https://legenddog.gitee.io/categories/photography/</link>
+        <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://legenddog.gitee.io/categories/photography/</guid>
+        <description>&lt;img src="https://legenddog.gitee.io/categories/photography/photography.png" alt="Featured image of post photography" /&gt;</description>
+        </item>
+        <item>
+        <title>language</title>
+        <link>https://legenddog.gitee.io/categories/language/</link>
+        <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://legenddog.gitee.io/categories/language/</guid>
+        <description>&lt;img src="https://legenddog.gitee.io/categories/language/language.png" alt="Featured image of post language" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
