@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>router on 一条狗的传说</title>
+        <link>https://legenddog.gitee.io/categories/router/</link>
+        <description>Recent content in router on 一条狗的传说</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://legenddog.gitee.io/categories/router/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>openwrt</title>
+        <link>https://legenddog.gitee.io/p/openwrt/</link>
+        <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://legenddog.gitee.io/p/openwrt/</guid>
+        <description>&lt;h1 id=&#34;开坑中敬请期待&#34;&gt;开坑中，敬请期待&lt;/h1&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
